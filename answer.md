@@ -55,7 +55,10 @@ public void mt_getResult(){
 
 1. (需截圖說明，並且需截圖執行結果)
 
-Ans:
+Ans:![alt text](image.png)
+這段是當程式偵測到使用者按了W鍵
+就在Debug log 寫出(玩家按了W鍵！)
+
 
 2. (需截圖說明，並且需截圖執行結果)
 
